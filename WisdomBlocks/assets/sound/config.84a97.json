@@ -1,0 +1,1 @@
+{"paths":{"0":["background",0],"1":["remove",0]},"types":["cc.AudioClip"],"uuids":["b4CvgucQFANoMxrshwSbKM","21NwNXLKZFVKS3sy1E6cxC"],"scenes":{},"redirect":[1,0],"deps":["main"],"packs":{},"name":"sound","importBase":"import","nativeBase":"native","debug":false,"isZip":false,"encrypted":true,"versions":{"import":[0,"faf58"],"native":[0,"d1338"]}}
